@@ -6,7 +6,7 @@ export const matchups: Matchup[] = [
     homeTeam: 'alwin',
     awayTeam: 'james',
     week: 14,
-    homeWinPercentage: 68.64
+    homeWinPercentage: 99.99
   },
   {
     id: 'game2',
