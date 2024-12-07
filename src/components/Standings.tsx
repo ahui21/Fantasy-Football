@@ -46,7 +46,7 @@ export const Standings: React.FC<StandingsProps> = ({ teams }) => {
                     : 'Still in playoff contention'
                 }`}
               >
-                <td className="py-2">#{index + 1}</td>
+                <td className="py-2">{index + 1}</td>
                 <td className="py-2 font-medium">{team.name}</td>
                 <td className="py-2">{team.wins}-{team.losses}</td>
                 <td className="py-2">{team.tiebreaker.toFixed(2)}</td>

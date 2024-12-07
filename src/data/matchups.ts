@@ -13,34 +13,34 @@ export const matchups: Matchup[] = [
     homeTeam: 'yosef',
     awayTeam: 'brian',
     week: 14,
-    homeWinPercentage: 17.33
+    homeWinPercentage: 27.60
   },
   {
     id: 'game3',
     homeTeam: 'martin',
     awayTeam: 'patrick',
     week: 14,
-    homeWinPercentage: 68.5
+    homeWinPercentage: 68.46
   },
   {
     id: 'game4',
     homeTeam: 'yanick',
     awayTeam: 'nick',
     week: 14,
-    homeWinPercentage: 24.22
+    homeWinPercentage: 33.92
   },
   {
     id: 'game5',
     homeTeam: 'tyler',
     awayTeam: 'pj',
     week: 14,
-    homeWinPercentage: 55.59
+    homeWinPercentage: 38.18
   },
   {
     id: 'game6',
     homeTeam: 'jono',
     awayTeam: 'andrew',
     week: 14,
-    homeWinPercentage: 43.89
+    homeWinPercentage: 43.95
   }
 ];
